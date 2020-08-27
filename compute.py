@@ -20,7 +20,7 @@ import parallelize as par
 
 # Call script as python compute.py padding path/to/dumps dstart dend
 # padding: determines number of processes to spawn (0<pad<1)
-# On BH: 0.6 for SANE and 0.25 for MAD
+# On BH: 0.6 for 288 resolution and 0.25 for 384 resolution
 # path/to/dumps: dumps location wrt where you're running script from
 # dstart, dend: starting and ending dump file numbers for analysis
 
