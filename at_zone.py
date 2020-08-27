@@ -25,6 +25,7 @@ import quantities as quant
 ### Mixed MHD stress-eenrgy tensor =============================================> tmixed
 ### Mixed EM stress-energy tensor ==============================================> tem_mixed
 ### Mixed fluid stress-energy tensor ===========================================> tfl_mixed
+### TODO:
 ### Contravariant Faraday tensor ========================================> fcon
 ### Covariant Faraday tensor ============================================> fcov
 
