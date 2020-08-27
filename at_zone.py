@@ -25,8 +25,8 @@ import quantities as quant
 ### Mixed MHD stress-eenrgy tensor =============================================> tmixed
 ### Mixed EM stress-energy tensor ==============================================> tem_mixed
 ### Mixed fluid stress-energy tensor ===========================================> tfl_mixed
-### Contravariant Maxwell stress tensor ========================================> fcon
-### Covariant Maxwell stress tensor ============================================> fcov
+### Contravariant Faraday tensor ========================================> fcon
+### Covariant Faraday tensor ============================================> fcov
 
 ### Components must be provided if quantity is neq 'ub'
 
