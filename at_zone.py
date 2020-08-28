@@ -1,7 +1,7 @@
 ################################################################
 
 # Compute fluid quantities in quantities.py at a single zone   # 
-# Useful for comparing codes                                  # 
+# Useful for comparing analysis scripts                                  # 
 
 ################################################################
 
